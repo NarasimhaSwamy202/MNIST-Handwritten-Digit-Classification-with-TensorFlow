@@ -1,1 +1,1 @@
-# digits_classigication_neural_network
+# digits_classification_neural_network
